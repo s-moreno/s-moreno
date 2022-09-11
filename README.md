@@ -1,0 +1,4 @@
+- 👋 ¡Hola! Me llamo Sergio
+- 👀 Me interesa la programación en general
+- 🌱 Estoy estudiando Desarrollo de Aplicaciones Web (DAW)
+- 📫 Contacto: smoreno@birt.eus
